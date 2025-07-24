@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.main {
+    justify-content: center;
+     display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.box {
+    height: 200px;
+    width: 150px;
+    border: 2px solid;
+    color: black;
+    background-color: aqua;
+}
